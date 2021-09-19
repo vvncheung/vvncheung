@@ -1,4 +1,4 @@
-Hi there 👋! I'm a full-stack developer based in Toronto, Canada with a passion for elegant, user-friendly, and intuitive design.
+Hi there 👋 ! I'm a full-stack developer based in Toronto, Canada with a passion for elegant, user-friendly, and intuitive design.
 
 - ✨ I build with JavaScript, HTML/CSS, Express, Node.js, React.js, Ruby on Rails.
 - 🌱  I'm currently learning Python, Kotlin, and more.
