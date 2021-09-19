@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋! I'm a full-stack developer based in Toronto, Canada with a passion for elegant, user-friendly, and intuitive design.
 
-<!--
-**vvncheung/vvncheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I build with: 
+JavaScript | HTML | CSS | Express | Node.js | React.js | Ruby on Rails
 
-Here are some ideas to get you started:
+🌱  I'm currently learning:
+Python | Kotlin 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ In my spare time, I like to:
+Cook, run, and tend to my indoor jungle.
+
+## Get in touch!
+- [Linkedin](https://www.linkedin.com/in/vlcheung/)
+- [Portfolio](http://www.viviancheung.ca)
+
