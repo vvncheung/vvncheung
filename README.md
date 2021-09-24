@@ -4,6 +4,9 @@ Hi there 👋 ! I'm a full-stack developer with a passion for elegant, user-frie
 - 🌱  I'm currently learning Python, Kotlin, and more.
 - ☁️ In my spare time, I like to cook, run, and tend to my indoor jungle.
 
+Currently working on:
+- portfolio and Pocky database 🍓
+
 Fun things I've made:
 - [Campfire](https://github.com/htkim94/campfire): web app that allows friends to find, queue, and play YouTube videos while chatting together.
 - [lotide](https://www.npmjs.com/package/@vvncheung/lotide): my own mini clone of the Lodash testing library, published on npm.
