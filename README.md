@@ -1,6 +1,6 @@
 Hi there 👋 ! I'm a full-stack developer with a passion for elegant, user-friendly, and intuitive design.
 
-- ✨ I build with JavaScript, HTML/CSS, Express, Node.js, React.js, Ruby on Rails.
+- ✨ I build with Unity, C#, JavaScript, HTML/CSS, Express, Node.js, React.js.
 - 🌱  I'm currently rebuilding my portfolio with vanilla javascript and gsap!
 - ☁️ In my spare time, I like to cook, run, and tend to my indoor jungle.
 
